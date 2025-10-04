@@ -1,0 +1,19 @@
+# Site settings
+title: 장하렴 | AI Engineer
+description: AI Engineer passionate about machine learning and artificial intelligence
+author: 장하렴
+email: your.email@example.com
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Social links
+github_username: CocoRoF
+linkedin_username: your-linkedin
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
